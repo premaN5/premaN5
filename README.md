@@ -39,7 +39,7 @@
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
 ### Tools & Platforms
