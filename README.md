@@ -88,7 +88,7 @@ A modern and responsive restaurant website built using:
 
 ---
 
-### 🤖 AI Teaching Assistant (Ongoing)
+### 🤖 AI Teaching Assistant
 
 An AI-powered educational assistant designed to answer course-related questions using Retrieval-Augmented Generation (RAG).
 
