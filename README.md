@@ -111,8 +111,6 @@ I actively train and mentor students in:
 
 ✅ Web Development
 
-✅ Data Structures
-
 ✅ Software Development Fundamentals
 
 ✅ Project Development
@@ -122,7 +120,6 @@ I actively train and mentor students in:
 ## 🌟 Career Interests
 
 * Python Full Stack Development
-* Artificial Intelligence
 * Software Engineering
 * Web Application Development
 * Technical Training & Mentoring
