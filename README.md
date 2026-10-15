@@ -63,7 +63,7 @@
 
 ## 🎓 Education
 
-### Master of Computer Applications (MCA)
+### Master of Computer Applications (MCA) Graduate
 
 🏫 Jain University
 
