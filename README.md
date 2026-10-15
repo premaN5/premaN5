@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing **Master of Computer Applications (MCA)** at **Jain University**
+🎓 **Master of Computer Applications (MCA) Graduate** 
 
 👨‍🏫 Working as a **Technical Trainer at VTech Solutions**
 
